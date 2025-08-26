@@ -1,0 +1,2 @@
+# MINUCURSO
+media aluno
